@@ -16,6 +16,6 @@ For more information you can contact [afaqtek_support](https://t.me/afaqtek_supp
 برای اطلاعات بیشتر، مستندات ما را دنبال کنید.
 **ما در حال کار بر روی مستندات هستیم**.
 
-این مستندات در سایت[docs.afaqtek.com](https://docs.afaqtek.com) قرار داده شده است که می‌توانید با مراجعه به این سایت آن‌ها را مطالعه کنید.
+این مستندات در سایت [docs.afaqtek.com](https://docs.afaqtek.com) قرار داده شده است که می‌توانید با مراجعه به این سایت آن‌ها را مطالعه کنید.
 
 برای اطلاعات بیشتر با شناسه [afaqtek_support](https://t.me/afaqtek_support) در تلگرام یا ایمیل [support@afaqtek.com](mailto:support@afaqtek.com) با ما در ارتباط باشید.
